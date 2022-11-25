@@ -19,6 +19,11 @@ public class Pegawai {
         return this.gajiPokok;
     }
 
+    public Pegawai(String nama, double gaji){
+        this.setNama(nama);
+        this.setGajiPokok(gaji);
+    }
+
     public void cetakInfo() {
         System.out.println("Nama Pegawai: " + getNama());
         System.out.println("Gaji Pokok : " + getGajiPokok());
