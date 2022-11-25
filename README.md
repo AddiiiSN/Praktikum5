@@ -79,8 +79,8 @@ Method cetakInfo digunakan untuk menampilkan data nama pegawai dan gaji pokok.
             managerHRGA.cetakInfo();
         }
     }
-    
-    
+![Screenshot (6)](https://user-images.githubusercontent.com/115928747/204056028-3dc2d342-3f8f-4e17-acac-2555342bdbbb.png)
+
 
 ### Subclass Programmer
       public class Programmer extends Pegawai{
@@ -121,4 +121,5 @@ Method cetakInfo digunakan untuk menampilkan data nama pegawai dan gaji pokok.
               programmer2.cetakInfo();
           }
       }
+![Screenshot (2)](https://user-images.githubusercontent.com/115928747/204056098-1f7e1b6b-7e63-47de-8aad-5e6e84b4752c.png)
 
